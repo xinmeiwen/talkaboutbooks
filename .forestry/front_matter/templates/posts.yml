@@ -14,6 +14,9 @@ fields:
 - type: text
   name: layout
   label: layout
+  description: post
+  hidden: false
+  default: post
 - type: datetime
   name: date
   label: date

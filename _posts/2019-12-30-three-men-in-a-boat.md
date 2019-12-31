@@ -6,7 +6,7 @@ description: Anyway, without further ado that book was Three Men In A Boat.I kno
   why I liked it so much.
 tags:
 - Recommended
-layout: ''
+layout: post
 date: 2019-12-30 16:00:00 +0000
 feature_image: https://res.cloudinary.com/diqqalzsx/image/upload/v1577807466/content/talkbooks/41p2aqgwHhL._SX326_BO1_204_203_200__u8vtyx.jpg
 

@@ -11,7 +11,11 @@ date: 2019-12-30 16:00:00 +0000
 feature_image: https://res.cloudinary.com/diqqalzsx/image/upload/v1577807466/content/talkbooks/41p2aqgwHhL._SX326_BO1_204_203_200__u8vtyx.jpg
 
 ---
-Until 8th grade I was of the opinion that anything recommended to me by school was something to be dealt with by holding a certain distance to the material and not developing any sort of interest towards it. I don't know if this was because I hated school, the kids, the teachers or just the fact that I was sick of authority and already had it impinged on my mind that school =bad. In 8th grade I was assigned to read a book which made me experience abject cognitive dissonance.This was because anything I had read up until that point **AND** enjoyed was purely non-scholastic.
+Until 8th grade I was of the opinion that anything recommended to me by school was something to be dealt with by holding a certain distance to the material and not developing any sort of interest towards it. 
+
+<!--more-->
+
+I don't know if this was because I hated school, the kids, the teachers or just the fact that I was sick of authority and already had it impinged on my mind that school =bad. In 8th grade I was assigned to read a book which made me experience abject cognitive dissonance.This was because anything I had read up until that point **AND** enjoyed was purely non-scholastic.
 
 Anyway, without further ado that book was Three Men In A Boat.I know it's not some literary classic or a masterpiece or anything but there's just something about it that I can't quite articulate my thoughts about well enough to tell you why I liked it so much. The book doesn't for a moment pretend it's anything but a collection of anecdotes about three middle aged men fucking around . Maybe it's the honesty and lack of pretension but that's just a small part.
 

@@ -12,8 +12,9 @@ feature_image: https://res.cloudinary.com/diqqalzsx/image/upload/v1577807466/con
 
 ---
 <center>
-[View on Amazon](https://amzn.to/35d9n4Y)
+<a class="ct-demo-link ct-demo-link--view" href="https://amzn.to/2ZFY0Bq" target="_blank" rel="nofollow">View on Amazon</a>
 </center>
+
 Until 8th grade I was of the opinion that anything recommended to me by school was something to be dealt with by holding a certain distance to the material and not developing any sort of interest towards it.
 
 <!--more-->

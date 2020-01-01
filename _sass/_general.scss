@@ -11,9 +11,6 @@ textarea {
 }
 
 html {
-  border: 15px solid _palette(accent);
-  box-sizing: border-box;
-
   @media only screen and (max-width: 600px) {
     border-width: 5px;
     font-size: 100%;
@@ -25,8 +22,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   line-height: 1.66667;
-  padding-left: 30px;
-  padding-right: 30px;
 }
 
 a {

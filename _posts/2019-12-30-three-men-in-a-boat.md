@@ -11,7 +11,7 @@ date: 2019-12-30T16:00:00.000+00:00
 feature_image: https://res.cloudinary.com/diqqalzsx/image/upload/v1577807466/content/talkbooks/41p2aqgwHhL._SX326_BO1_204_203_200__u8vtyx.jpg
 
 ---
-<center>[View on Amazon →](https://amzn.to/35d9n4Y)</center>
+<center> [View on Amazon](https://amzn.to/35d9n4Y) </center>
 
 Until 8th grade I was of the opinion that anything recommended to me by school was something to be dealt with by holding a certain distance to the material and not developing any sort of interest towards it.
 

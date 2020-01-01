@@ -18,7 +18,7 @@ description: "Here's a place to share and talk about the books in our lives."
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://wetalkaboutbooks.com/"
+url: "https://wetalkaboutbooks.com"
 
 # Favicon
 favicon: images/favicon.png

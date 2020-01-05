@@ -225,7 +225,9 @@ table tbody > tr:nth-child(odd) {
 img {
   border-radius: 3px;
   height: auto;
-  max-width: 100%;
+max-width: 100%;
+    display: block;
+    margin: 1.5em auto;
 }
 
 embed,
@@ -256,7 +258,7 @@ text-align: center;
 
 @media only screen and (min-width: 971px) {
   .width-wide img {
-max-width: 880px;
+max-width: 330px;
   }
 }
 

@@ -3,8 +3,13 @@
    ========================================================================== */
 
 .post {
-  border-bottom: 1px solid _palette(border);
-  padding: 3.33333em 0 1.66667em;
+  padding: 3.33333em 0 1.66667em;   
+    box-shadow: rgba(0,0,0,0.2) 0px 0px 1px, rgba(0,0,0,0.09) 0px 2px 4px;
+    border-radius: 3px;
+    background: 50% center/cover #fff;
+    max-width: 768px;
+    margin: 0 auto 30px;
+    padding: 30px;
 }
 
 .post-header {
